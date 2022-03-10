@@ -1,0 +1,6 @@
+rootProject.name = 'bahamas'
+include 'mockServices'
+include 'mock-external-service'
+include 'bahamas-core'
+include 'bahamas-core'
+
